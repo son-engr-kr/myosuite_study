@@ -12,3 +12,6 @@ pink-noise-rl
 packaging
 gitpython
 myosuite
+matplotlib
+pandas
+osqp
